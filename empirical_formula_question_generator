@@ -1,0 +1,8 @@
+# define function for empirical formula question generator
+def empirical_formula
+# hoo boy I need to review
+# input a formula with element symbol and subscript 
+# input a variable for a specific element 
+# need a dictionary of elements and molar masses
+# add arithmetic functios to solve based off variable 
+# print a sentence frame with amounts to solve 
